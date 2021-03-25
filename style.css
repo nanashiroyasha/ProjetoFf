@@ -1,0 +1,81 @@
+
+h2{
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+  color:black;
+}
+h3{
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+  color:black;
+  text-align: center;
+}
+h1{
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+h6{
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+  color:black;
+  text-align: center;
+}
+
+
+
+#desc{
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+ color:dimgray;
+ text-align: center;
+}
+
+
+
+
+.btn btn-info{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+ 
+p{
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+  color:black;
+
+}
+
+.container {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+  padding: 2px 16px;
+}
+
+span{
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+  display: block;
+  color: dimgray;
+  padding: 3px;
+  
+}
+div.box {
+  margin-inline-start: 50px;
+  width: 200px;
+
+ 
+  display: inline-table;
+
+
+  
+   
+}
+
+.containersobre{
+  margin-inline-start: 50px;
+
+}
+
+.imagem{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
